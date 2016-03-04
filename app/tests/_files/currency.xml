@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataset>
+    <currency symbol="USD" rate="76"/>
+    <currency symbol="RUR" rate="6"/>
+    <currency symbol="UAH" rate="24"/>
+    <currency symbol="EUR" rate="16"/>
+</dataset>
